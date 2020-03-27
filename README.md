@@ -1,0 +1,2 @@
+# zb3_lock_onlypasswd_nxp
+zb3_lock_onlypasswd_nxp
