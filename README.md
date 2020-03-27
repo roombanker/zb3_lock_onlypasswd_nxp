@@ -1,5 +1,6 @@
-<center><font size="15">zigbee3.0 门锁协议</font></center>
+<center><font size="15">zigbee3.0/Zwave Lock API (connecting through dusun gateway)</font></center>
 <center>杭州软库科技有限公司</center>  
+
 <center>2018年11月</center>  
 [TOC]
 
